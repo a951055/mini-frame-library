@@ -1,0 +1,17 @@
+{
+  "name": "mini-frame-builder",
+  "version": "0.0.1",
+  "description": "小程序ts风格框架支持库",
+  "main": "index.js",
+  "author": "Halo",
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "小程序",
+    "typescript",
+    "library"
+  ],
+  "devDependencies": {
+    "miniprogram-api-typings": "latest"
+  }
+}
